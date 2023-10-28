@@ -1,0 +1,78 @@
+#Thu Aug 26 12:24:10 GMT+08:00 2010
+Product=GRider
+#Fri Mar 12 12:24:10 GMT+08:00 2010
+
+#GRider - Main App
+gRider-CryptType=0
+gRider-UserName=_\u00C2
+gRider-Password=m\u00D7\u00A3\u0090"\u00CE\u00D1r\u00B8\u0017>\u00A7
+gRider-ClientID=GGC_BM001
+gRider-ServerName=192.168.10.240
+gRider-MainServer=172.16.1.6
+gRider-Database=GGC_ISysDBF
+gRider-ComputerID=XX
+gRider-Port=3306
+
+#IntegSys - Main App
+IntegSys-CryptType=0
+IntegSys-UserName=_\u00C2
+IntegSys-Password=m\u00D7\u00A3\u0090"\u00CE\u00D1r\u00B8\u0017>\u00A7
+IntegSys-ClientID=GGC_BM023
+IntegSys-ServerName=172.16.2.114
+IntegSys-MainServer=172.16.1.6
+IntegSys-Database=GGC_ISysDBF
+IntegSys-ComputerID=XX
+IntegSys-Port=3306
+
+#FoodInv - Main App
+FoodInv-CryptType=1
+FoodInv-UserName=4bcba9906bd5c4
+FoodInv-Password=7bd6b481678b8e62a40626b78c
+FoodInv-ClientID=GGC_BM126
+FoodInv-ServerName=192.168.10.15
+FoodInv-MainServer=192.168.10.15
+FoodInv-Database=CASys_DBF
+FoodInv-ComputerID=XX
+FoodInv-Port=3306
+
+#QueryMngr - Main App
+QueryMngr-CryptType=0
+QueryMngr-UserName=_\u00C2
+QueryMngr-Password=m\u00D7\u00A3\u0090"\u00CE\u00D1r\u00B8\u0017>\u00A7
+QueryMngr-ClientID=GGC_BM126
+QueryMngr-ServerName=192.168.10.15
+QueryMngr-MainServer=192.168.10.15
+QueryMngr-Database=GGC_ISysDBF
+QueryMngr-ComputerID=XX
+QueryMngr-Port=3306
+
+#SysUserFX - Main App
+SysUserFX-CryptType=1
+SysUserFX-UserName=4bcba9906bd5c4
+SysUserFX-Password=7bd6b481678b8e62a40626b78c
+SysUserFX-ClientID=GGC_BM126
+SysUserFX-ServerName=192.168.10.15
+SysUserFX-MainServer=192.168.10.15
+SysUserFX-Database=GGCISys_DBF
+SysUserFX-ComputerID=XX
+SysUserFX-Port=3306
+
+#GenPrchse - Main App
+GenPrchse-CryptType=1
+GenPrchse-UserName=4bcba9906bd5c4
+GenPrchse-Password=7bd6b481678b8e62a40626b78c
+GenPrchse-ClientID=GGC_BH002
+GenPrchse-ServerName=192.168.10.15
+GenPrchse-MainServer=192.168.10.15
+GenPrchse-Database=CASys_DBF
+GenPrchse-ComputerID=XX
+GenPrchse-Port=3306
+
+#Old
+#SysUserFX-CryptType=0
+#SysUserFX-UserName=_\u00C2
+#SysUserFX-Password=m\u00D7\u00A3\u0090"\u00CE\u00D1r\u00B8\u0017>\u00A7
+#New
+#SysUserFX-CryptType=1
+#SysUserFX-UserName=4bcba9906bd5c4
+#SysUserFX-Password=7bd6b481678b8e62a40626b78c
