@@ -2,12 +2,16 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
         <group name="RMJ POS"/>
         <group name="Java New"/>
         <group name="GCard"/>
         <group name="guanzon"/>
         <group name="From Laptop"/>
-        <group name="GCARD"/>
+        <group>
+            <file>file:/D:/Guanzon/GMC%20SEG%20Folder%20-%20Java/peepgcard/src/org/rmj/peepgcard/NewGCard.java</file>
+        </group>
+        <group name="GCARD">
+            <file>file:/D:/Guanzon/GMC%20SEG%20Folder%20-%20Java/peepgcard/src/org/rmj/peepgcard/NewGCard.java</file>
+        </group>
     </open-files>
 </project-private>
